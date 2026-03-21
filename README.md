@@ -15,7 +15,7 @@ Due to the variety of C++ usage in the modern industrial rendering pipeline, a s
 
 Starting from 0.1.4, no pre-processing  is necessary. Load directly!
 
-Although there is already internal emission textures, it is still recommended to use a PBR texture pack for better experience.
+Although there are already internal emission textures, it is still recommended to use a PBR texture pack for better experience.
 
 # Installation Guide
 
